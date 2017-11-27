@@ -70,3 +70,7 @@ resource "aws_elb" "db_mysql" {
     interval            = 30
   }
 }
+
+
+
+
